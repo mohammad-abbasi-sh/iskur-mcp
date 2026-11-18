@@ -7,7 +7,7 @@ name = "iskur-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for İŞKUR (iskur.gov.tr): open job listings, job details, provinces, announcements"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
